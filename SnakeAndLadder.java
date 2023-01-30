@@ -2,6 +2,7 @@ package Day4SnakeAndLadder;
 
 public class SnakeAndLadder {
     public static void main(String[] args) {
-        System.out.println("WELCOME TO DAY:4 SNAKE AND LADDER PROGRAM");
+        int playerPosition = 0;         // START POSITION
+        System.out.println("Start position: " + playerPosition);
     }
 }
